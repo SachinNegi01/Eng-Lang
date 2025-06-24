@@ -1,0 +1,37 @@
+set a to 15;
+set b to 10;
+if a is greater than b then {
+    print a;
+} else {
+    print b;
+}
+
+if a is less than b then {
+    print a;
+} else {
+    print b;
+}
+
+if a is equal to b then {
+    print 100;
+} else {
+    print 200;
+}
+
+if a is not equal to b then {
+    print 1;
+} else {
+    print 0;
+}
+
+if a is greater than or equal to b then {
+    print 111;
+} else {
+    print 222;
+}
+
+if a is less than or equal to b then {
+    print 333;
+} else {
+    print 444;
+} 

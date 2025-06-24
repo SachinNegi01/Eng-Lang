@@ -1,0 +1,15 @@
+set n to 5;
+print 100;
+loop from i = 0 to i < n with i++ {
+    print i;
+}
+print 200;
+set j to 0;
+loop until j >= n {
+    print j;
+    set j to j + 1;
+}
+print 300;
+loop from k = 4 to k >= 0 with k-- {
+    print k;
+} 

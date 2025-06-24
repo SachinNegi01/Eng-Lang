@@ -1,0 +1,6 @@
+set x to 5
+set y to 10
+print x
+print y
+print x + y
+print x * (y - 2) 

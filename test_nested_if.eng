@@ -1,0 +1,12 @@
+set x to 7;
+set y to 7;
+set z to 10;
+if x is equal to y then {
+    if z is greater than x then {
+        print z;
+    } else {
+        print x;
+    }
+} else {
+    print y;
+} 
